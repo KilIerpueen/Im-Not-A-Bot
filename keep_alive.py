@@ -7,7 +7,7 @@ import os
 app = Flask('')
 
 ID = '1141489646254166066'
-TOKEN = "MTEzMDM5NTI3NDY3ODkwMjg1NQ.G9NP0_OCwyO0l759azur3HsFDB0Qm7hE60dMY"
+TOKEN = "MTEzMDM5NTI3NDY3ODkwMjg1NQ.G07gom.h67qAWKxlhxcwRXmlIzyDkUQt35UlPljhLYAJw"
 
 # Define the Discord widget iframe
 discord_widget = Markup('''
